@@ -1,0 +1,8 @@
+export const OVERPASS_API_URL = "https://overpass-api.de/api/interpreter";
+
+export const ARRONDISSEMENTS_GROUPS_WIKIDATA = [
+  ["Q161741", "Q209549", "Q223140", "Q230127", "Q238723"],
+  ["Q245546", "Q259463", "Q270230", "Q275118", "Q163948"],
+  ["Q169293", "Q171689", "Q175129", "Q187153", "Q191066"],
+  ["Q194420", "Q197297", "Q200126", "Q204622", "Q210720"],
+];
